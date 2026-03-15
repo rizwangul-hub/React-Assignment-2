@@ -1,0 +1,31 @@
+.profile-card{
+  border: 1px solid;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+.profile-card img{
+  width: 100%;
+}
+.profile-card p{
+  padding-left: 20px;
+}
+.skill-list{
+ font-size: 18px;
+ font-style: italic;
+}
+.contact-button{
+  padding: 8px 13px;
+  border-radius: 9px;
+  color: gray;
+  margin: auto;
+}
+.Profile-cards{
+  display: flex;
+  gap: 20px;
+}
+.profile{
+  border: 1px solid;
+  border-radius: 9px;
+  padding: 15px;
+}
